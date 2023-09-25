@@ -5,12 +5,14 @@
 ### Projects i've worked on
 - [Pizza Website](https://timnilsson04.github.io/te4-pizzeria/)
 
-### #funny
+### funny.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
 
-![](https://komarev.com/ghpvc/?username=your-github-username) #true #jagvann
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertsparrman&theme=react) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertsparrman&theme=react) 
 <!--
 **albertsparrman/albertsparrman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
