@@ -1,8 +1,15 @@
 ## Hello there 👋
+- 🤔 I’m looking for help.
+- 📫 How to reach me: nostrapgang@gmail.com
+
+### Projects i've worked on
+- [Pizza Website](https://timnilsson04.github.io/te4-pizzeria/)
+
+### funny.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username) #true #jagvann
 
 <!--
 **albertsparrman/albertsparrman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
