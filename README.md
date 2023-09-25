@@ -1,5 +1,3 @@
-<div align="center">
- <div align="left">
 ## Hello there 👋
 - 🤔 I’m looking for help.
 - 📫 How to reach me: nostrapgang@gmail.com
@@ -7,15 +5,12 @@
 ### Projects i've worked on
 #### Group projects
 [Pizza Website](https://timnilsson04.github.io/te4-pizzeria/)
-</div>
 
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertsparrman&theme=react) 
 
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albertsparrman&theme=react)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=albertsparrman&theme=react) 
-
- </div>
 <!--
 **albertsparrman/albertsparrman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
