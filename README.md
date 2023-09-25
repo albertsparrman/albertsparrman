@@ -5,7 +5,7 @@
 ### Projects i've worked on
 - [Pizza Website](https://timnilsson04.github.io/te4-pizzeria/)
 
-### funny.
+### #funny
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
 
